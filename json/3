@@ -1,0 +1,27 @@
+{
+    "name": "Vinicius",
+    "description": "Vinicius player",
+    "image": "ipfs://bafybeighiq2fssyp4popaw43eixpt22izx7xuufrieguyay5g4k5r557m4/3.jfif",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rightmost"
+        },
+        {
+            "trait_type": "Resistencia",
+            "value": "100"
+        },
+        {
+            "trait_type": "Precisión",
+            "value": "100"
+        },
+        {
+            "trait_type": "Velocidad",
+            "value": "100"
+        },
+        {
+            "trait_type": "Agilidad",
+            "value": "300"
+        }
+    ]
+}
